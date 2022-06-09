@@ -1,0 +1,11 @@
+		game:GetService("StarterGui"):SetCore("SendNotification", {
+			Title = 'Valiant',
+			Text = "You got scammed you fucking nigger.",
+			Duration = 10
+		})
+    setclipboard("Sential#5259")
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+			Title = 'sCAMMED',
+			Text = "nigger really got scammed you dumb nigger bitch ahahahah",
+			Duration = 10
+		})
